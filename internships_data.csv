@@ -1,3 +1,91 @@
-student_name,grad_year,org_name,description,lat,lng,img_filename
-Willowhawk Bowen ,2029,Columbus Zoo and Aquarium,,40.156266,-83.118403,img_20260813_095542.png
-Lily Oswald ,2028,Roosevelt Park Zoo,,48.23382,-101.27434,img_20260813_095706.png
+student_name,grad_year,org_name,lat,lng,img_filename
+,,Alaska SeaLife Center,60.1,-149.44083,clevinger.png
+natalie hoy,,alturas,8.948,-82.834,natalie.png
+,,Audobon Seabird Institute,43.98423,-69.41959,nat.png
+,,Audobon Seabird Institute,43.98423,-69.41959,natalia.png
+,,boonshoft,39.78882,-84.20179,carson.png
+Emma Hall,,boonshoft,39.78882,-84.20179,emma.png
+kerri ,,Boonshoft,39.78882,-84.20179,MArk 2 map.drawio (11).png
+,,Bring the Farm to you Columbus,40.3044,-82.6956,layla.png
+,,buffalo zoo,42.9391,-78.8536,smith.png
+,,Cape Wildlife Center,41.697876,-70.318588,MArk 2 map.drawio (10).png
+Delany Will,2028,chengdu,30.74322,104.13566,Delaney2.png
+,,chengdu,30.74322,104.13566,steck.png
+,,Cincinnati Zoo,39.14443,-84.5087,battle.png
+abby hamer huber,2027,Clearwater Marine Aquarium,27.977,-82.8176,2.png
+,,CMERA,27.93885,-82.7442,liz.png
+nyl vasilides,,cmera,27.93885,-82.7442,nyl.png
+,,Colony Cats Columbus,40.0924,-83.0889,Chelsea.png
+Maddie Johnson,,columbus humane,40.0315,-83.1492,maddie.png
+,,Columbus zoo,40.156266,-83.118403,stallings.png
+,,Columbus Zoo and Aquarium,40.156266,-83.118403,avery.png
+Avery Kotchunian,2027,Columbus Zoo and Aquarium,40.156266,-83.118403,averyss.png
+Erika Stake,2029,Columbus Zoo and Aquarium,40.156266,-83.118403,erika.png
+Willowhawk Bowen ,2029,Columbus Zoo and Aquarium,40.156266,-83.118403,img_20260813_095542.png
+,,Columbus Zoo and Aquarium,40.156266,-83.118403,lewis.png
+,,Columbus Zoo and Aquarium,40.156266,-83.118403,MArk 2 map.drawio (12).png
+,,Columbus Zoo and Aquarium,40.156266,-83.118403,MArk 2 map.drawio (9).png
+,,Columbus Zoo and Aquarium,40.156266,-83.118403,michaela.png
+sstephanie,,Columbus Zoo and Aquarium,40.156266,-83.118403,stephanie.png
+,,Columbus Zoo and Aquarium,40.156266,-83.118403,tess 2.png
+,,Columbus Zoo and Aquarium,40.156266,-83.118403,willo.png
+,,COSI,39.9597,-83.0069,ella.png
+,,COSI,39.9597,-83.0069,emmy.png
+,,COSI,39.9597,-83.0069,jay.png
+Dunne,,cosi,39.9597,-83.0069,maggie.png
+,,cosi,39.9597,-83.0069,march 26.drawio.png
+,,Cosi,39.9597,-83.0069,sarah.png
+,,dr dolittle's house wildlife rehabilitaiton center,41.76705,-80.570417,sydney.png
+,,Elmira's wildlife sancutary,27.7017,-82.2619,vanmeter.png
+,,Fort Wayne Childrens Zoo,41.10768,-85.15192,grace.png
+,,Georgia Aquarium,33.7634,-84.3951,masciola.png
+,,Heritage,38.3764,-82.4673615,fall 25 map.drawio.png
+,,Heritage,38.3764,-82.4673615,gallespie 1.png
+Miles Irwin,,Heritage,38.3764,-82.4673615,miles.png
+,,Hilliardton Marsh Research And Education Centre,47.73991,-79.69677,MArk 2 map.drawio (6).png
+,,Hiram House Camp,41.45033,-81.44734,delaney.png
+,,IX jaguar project,17.8,-88.85,lewis2.png
+,,Lake Erie Nature and Science Center,41.4861545,-81.9373629,fall 26115 map.drawio.png
+,,Lake erie naturea and science center,41.4861545,-81.9373629,spencer.png
+,,Lake Metroparks,41.6508,-81.2505,Emily.png
+,,Lake Metroparks,41.6508,-81.2505,lucas.png
+madalyn wittrock ,28,lehigh valley zoo ,40.658251,-75.625956,3map.drawio.png
+,,Mote Marine,27.3315,-82.5779,ngyuen.png
+,,Natures Nursery ,41.52186,-83.72243,mary.png
+,,new zoo and adventure park,44.66039,-88.08963,tori.png
+,,North American Bear Center,47.8986,-91.8883,addy.png
+,,North Bend State Park,39.2231343,-81.1103895,ainsley.png
+sarah scarborough,,obs,40.7282244,-82.6473736,sarah 2.png
+,,odt,39.959186,-83.054452,jeremiah.png
+Jeremiah,,odt,39.959186,-83.054452,jeremian.png
+,,Ohio Division of Wildlfie,40.0601,-82.9554,Fall 2023 map additions PART 2.drawio.png
+abbey tucker,26,Ohio Wildlife Center,40.17638,-83.139716,abbey.png
+,,Ohio Wildlife Center,40.17638,-83.139716,adrienne.png
+,,Ohio Wildlife Center,40.17638,-83.139716,courtney.png
+,,Ohio Wildlife Center,40.17638,-83.139716,nick.png
+,,Ohio Wildlife Center,40.17638,-83.139716,orlovsky.png
+Fin Funk,28,Otterbein University,40.1257,82.9361,45fall 25 map.drawio.png
+,,Otterbein University,40.1257,82.9361,zoey.png
+willohawk,,owc,40.17638,-83.139716,willowhawk.png
+,,philadelphia zoo,39.972,-75.1963,sdfas.png
+,,Pittsburgh Zoo & Aquarium,40.4828,-79.92,al.png
+,,Pittsburgh Zoo & Aquarium,40.4828,-79.92,beyer.png
+,,Pittsburgh Zoo & Aquarium,40.4828,-79.92,MArk 2 map.drawio (8).png
+Danielle Padberg,26,Reid Park Zoo,32.208,-110.92,4fall 25 map.drawio.png
+,,Reid Park Zoo,32.208,-110.92,basdar.png
+,,Reid Park Zoo,32.208,-110.92,ciana.png
+Lily Oswald ,2028,Roosevelt Park Zoo,48.23382,-101.27434,img_20260813_095706.png
+,,San Fransico Zoo and Gardens,37.7329,-122.5031,nora.png
+,,Seed,-25.0306,46.9861,fall 25 651map.drawio.png
+Fin Funk,,seed,-25.0306,46.9861,fin.png
+,,Seed,-25.0306,46.9861,gibson.png
+,,Smokey Chestnut Farm Rescue,41.9877,-71.1385,aubrey.png
+,,Tel Aviv Aquarium,32.0736,34.7881,fall 26455 map.drawio.png
+,,The living desert zoo,33.6999789,-116.3744166,palmer.png
+,,The Wilds,39.8221,-81.7419,laurie.png
+,,Turtle Bay Exploration Park,40.594023,-122.38597,MArk 2 map.drawio (7).png
+,,Wild Hearts African Farm,39.847186,-84.500471,Maddy.png
+,,Wild Sun Rehab,9.5973,-85.09925,laird.png
+,,Wildlife sarari orgeon,43.1417,-123.4265,second map addition.drawio (2).png
+Meghan Rouff,,WRC,38.487136,-90.501963,meghan.png
+,,Zoo Atlanta,33.7314957,-84.3710371,craven.png
