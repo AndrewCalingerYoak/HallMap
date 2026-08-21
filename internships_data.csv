@@ -1,6 +1,6 @@
 student_name,grad_year,org_name,lat,lng,img_filename
-clevinger,,Alaska SeaLife Center,60.10439,-149.463539,clevinger.png
 ,,Alaska SeaLife Center,60.10439,-149.463539,clark.png
+clevinger,,Alaska SeaLife Center,60.10439,-149.463539,clevinger.png
 natalie hoy,,alturas,8.948,-82.834,natalie.png
 ,,Audobon Seabird Institute,43.98423,-69.41959,nat.png
 ,,Audobon Seabird Institute,43.98423,-69.41959,natalia.png
@@ -15,9 +15,9 @@ Emma Hall,,boonshoft,39.78882,-84.20179,emma.png
 ,,cameron park zoo,31.57108,-97.14578,sposeep2.png
 ,,Cape Wildlife Center,41.697876,-70.318588,MArk 2 map.drawio (10).png
 Delany Will,2028,chengdu,30.74322,104.13566,Delaney2.png
-,,chengdu,30.74322,104.13566,steck.png
 ,,chengdu,30.74322,104.13566,kobayashi.png
 ,,chengdu,30.74322,104.13566,spragg.png
+,,chengdu,30.74322,104.13566,steck.png
 ,,Cincinnati Zoo,39.14443,-84.5087,battle.png
 ,,cincy zoo,39.14443,-84.5087,reardon2.png
 abby hamer huber,2027,Clearwater Marine Aquarium,27.977,-82.8176,2.png
@@ -45,6 +45,7 @@ Dunne,,cosi,39.9597,-83.0069,maggie.png
 ,,cosi,39.9597,-83.0069,march 26.drawio.png
 ,,Cosi,39.9597,-83.0069,sarah.png
 ,,cosi,39.9597,-83.0069,tusty.png
+kylie bryant,,cza,39.9597,-83.0069,bryant2.png
 ,,cza,39.9597,-83.0069,gregory.png
 ,,cza,39.9597,-83.0069,purks.png
 ,,cza,39.9597,-83.0069,west.png
@@ -52,8 +53,8 @@ Dunne,,cosi,39.9597,-83.0069,maggie.png
 ,,dr dolittle's house wildlife rehabilitaiton center,41.76705,-80.570417,sydney.png
 ,,Elmira's wildlife sancutary,27.7017,-82.2619,vanmeter.png
 ,,essex county turtle back zoo,40.76735,-74.28075,turk.png
-,,Fort Wayne Childrens Zoo,41.10768,-85.15192,grace.png
 ,,Fort Wayne Childrens Zoo,41.10768,-85.15192,clark2.png
+,,Fort Wayne Childrens Zoo,41.10768,-85.15192,grace.png
 ,,Georgia Aquarium,33.7634,-84.3951,masciola.png
 ,,Heritage,38.3764,-82.4673615,gallespie 1.png
 ,,Heritage,38.3764,-82.4673615,libby.png
@@ -61,26 +62,31 @@ Miles Irwin,,Heritage,38.3764,-82.4673615,miles.png
 ,,hilliarton,47.73991,-79.69677,shelton.png
 ,,Hiram House Camp,41.45033,-81.44734,delaney.png
 ,,indianapolis zoo,39.76694,-86.1728,hughes.png
+Amelia soline,,island dolphin care,25.0836825,-80.4420383,soline.png
 ,,IX jaguar project,17.8,-88.85,lewis2.png
-,,Lake Erie Nature and Science Center,41.4861545,-81.9373629,fall 26115 map.drawio.png
+Leo crawford,,Kentucky reptile zoo,37.834,-83.6079,crawford.png
 ,,Lake Erie Nature and Science Center,41.4861545,-81.9373629,bryant.png
+,,Lake Erie Nature and Science Center,41.4861545,-81.9373629,fall 26115 map.drawio.png
 ,,Lake erie naturea and science center,41.4861545,-81.9373629,spencer.png
+lane dickens,,Lake Metroparks,41.6508,-81.2505,dickens.png
 ,,Lake Metroparks,41.6508,-81.2505,Emily.png
 ,,Lake Metroparks,41.6508,-81.2505,lucas.png
 ,,league for animal welfare,39.0783,-84.2255,reardon.png
 madalyn wittrock ,28,lehigh valley zoo ,40.658251,-75.625956,3map.drawio.png
+charlotte hatefield,,little rock zoo,34.7464,-92.3321,hatfield2.png
+frankie,,montgomery zoo,32.4201,-86.2772,nicoterra2.png
 ,,Mote Marine,27.3315,-82.5779,ngyuen.png
 Grace Schoegler,29,Mystic Aquarium,41.3739,-71.9531,grace 2.png
-,,Mystic Aquarium,41.3739,-71.9531,schoegler.png
 ,,Mystic Aquarium,41.3739,-71.9531,laird2.png
+,,Mystic Aquarium,41.3739,-71.9531,schoegler.png
 ,,Natures Nursery ,41.52186,-83.72243,mary.png
 ,,new zoo and adventure park,44.66039,-88.08963,tori.png
 ,,North American Bear Center,47.8986,-91.8883,addy.png
 ,,North American Bear Center,47.8986,-91.8883,laslo.png
 ,,North Bend State Park,39.2231343,-81.1103895,ainsley.png
 sarah scarborough,,obs,40.7282244,-82.6473736,sarah 2.png
-,,oceans research,-34.1791,22.1406,hollertz.png
 ,,oceans research,-34.1791,22.1406,everard.png
+,,oceans research,-34.1791,22.1406,hollertz.png
 ,,oceans research,-34.1791,22.1406,kemp.png
 ,,ODNR,40.0601,-82.9554,mckinley.png
 ,,odt,39.959186,-83.054452,jeremiah.png
@@ -93,19 +99,20 @@ abbey tucker,26,Ohio Wildlife Center,40.17638,-83.139716,abbey.png
 ,,Ohio Wildlife Center,40.17638,-83.139716,orlovsky.png
 Fin Funk,28,Otterbein University,40.1257,-82.9361,fin2.png
 ,,Otterbein University,40.1257,-82.9361,zoey.png
-willohawk,,owc,40.17638,-83.139716,willowhawk.png
+,,owc,40.17638,-83.139716,mason.png
 ,,owc,40.17638,-83.139716,perkins.png
 ,,owc,40.17638,-83.139716,smith2.png
-,,owc,40.17638,-83.139716,mason.png
+willohawk,,owc,40.17638,-83.139716,willowhawk.png
 ,,philadelphia zoo,39.972,-75.1963,nicoterra.png
 ,,Pittsburgh Zoo & Aquarium,40.4828,-79.92,al.png
 ,,Pittsburgh Zoo & Aquarium,40.4828,-79.92,beyer.png
 ,,reefs of hope,-17.776,177.189,daley.png
 ,,Reid Park Zoo,32.208,-110.92,basdar.png
 ,,Reid Park Zoo,32.208,-110.92,ciana.png
+,,Reid Park Zoo,32.208,-110.92,gibson2.png
 Danielle Padberg,26,Reid Park Zoo,32.208,-110.92,padberg.png
 ,,Reid Park Zoo,32.208,-110.92,shimko.png
-,,Reid Park Zoo,32.208,-110.92,gibson2.png
+landyn andrews,,rescate,10.0123357,-84.2756121,andrews.png
 ,,rescate,10.0123357,-84.2756121,bruce.png
 ,,riverbanks zooa nd garden,34.0099,-81.0729,beyer2.png
 Lily Oswald ,2028,Roosevelt Park Zoo,48.23382,-101.27434,img_20260813_095706.png
@@ -121,8 +128,8 @@ Fin Funk,,seed,-25.0306,46.9861,fin.png
 ,,Turtle Bay Exploration Park,40.594023,-122.38597,MArk 2 map.drawio (7).png
 ,,Wild Hearts African Farm,39.847186,-84.500471,Maddy.png
 ,,Wild Sun Rehab,9.5973,-85.09925,laird.png
-,,Wildlife safari orgeon,43.1417,-123.4265,yates.png
 ,,Wildlife safari orgeon,43.1417,-123.4265,meyer.png
+,,Wildlife safari orgeon,43.1417,-123.4265,yates.png
 Meghan Rouff,,WRC,38.487136,-90.501963,meghan.png
 ,,Zoo Atlanta,33.7314957,-84.3710371,craven.png
 ,,zoo tampa,28.013283,-82.469622,alarcon3.png
